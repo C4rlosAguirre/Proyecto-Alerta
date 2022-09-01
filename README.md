@@ -8,7 +8,7 @@ innovaciones tecnológicas que favorecieran a la comunidad local.
 es decir, se genera una alarma de incendio y en el carro el copiloto del chofer ingresa los nombres de las 
 calles colindantes al siniestro y la del propio siniestro y el programa triangula la ubicación y nos muestra 
 en un mapa la ubicación exacta de los grifos cercanos para aumentar el tiempo de respuesta de los voluntarios
-del cuerpo de bomberos.
+del cuerpo de bomberos.  Proyecto creado el año 2006.
 
 
 
